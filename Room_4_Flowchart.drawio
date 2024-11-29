@@ -1,0 +1,118 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.9.3">
+  <diagram name="Page-1" id="B7RbldOr9ic97s9sZSfB">
+    <mxGraphModel dx="1434" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kuywleyg-yXCFQcFQ9ox-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kuywleyg-yXCFQcFQ9ox-1" target="kuywleyg-yXCFQcFQ9ox-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kuywleyg-yXCFQcFQ9ox-1" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;GAME BEGINS&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Backdrop changes to first room&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="713" y="170" width="177" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="kuywleyg-yXCFQcFQ9ox-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kuywleyg-yXCFQcFQ9ox-2" target="kuywleyg-yXCFQcFQ9ox-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kuywleyg-yXCFQcFQ9ox-2" value="Put decoy sprites and correct sprite in location on the backdrop." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="490" y="167.5" width="170" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="kuywleyg-yXCFQcFQ9ox-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kuywleyg-yXCFQcFQ9ox-18" target="kuywleyg-yXCFQcFQ9ox-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kuywleyg-yXCFQcFQ9ox-4" value="When incorrect sprite clicked, program to shake/make noise to indicate wrong.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;when correct sprite clicked, magic-tingly noise indicates correct.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="248" y="176.25" width="182" height="107.5" as="geometry" />
+        </mxCell>
+        <mxCell id="kuywleyg-yXCFQcFQ9ox-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kuywleyg-yXCFQcFQ9ox-6" target="kuywleyg-yXCFQcFQ9ox-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kuywleyg-yXCFQcFQ9ox-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kuywleyg-yXCFQcFQ9ox-6" target="kuywleyg-yXCFQcFQ9ox-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kuywleyg-yXCFQcFQ9ox-6" value="Introduction of game:&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Sprite (character) to ask name, then explain the rules and how to escape&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="10" y="10" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="kuywleyg-yXCFQcFQ9ox-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kuywleyg-yXCFQcFQ9ox-8" target="kuywleyg-yXCFQcFQ9ox-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kuywleyg-yXCFQcFQ9ox-8" value="&lt;div&gt;&lt;b&gt;2nd Round&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Backdrop change to Room 2&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Hide sprites from previous round&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;introduce new sprites for this round&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="320" width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="kuywleyg-yXCFQcFQ9ox-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kuywleyg-yXCFQcFQ9ox-10" target="kuywleyg-yXCFQcFQ9ox-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kuywleyg-yXCFQcFQ9ox-10" value="Clickable &amp;amp; draggable sprites&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;correct sprite hidden behind decoy sprite&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="248" y="315" width="182" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="kuywleyg-yXCFQcFQ9ox-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kuywleyg-yXCFQcFQ9ox-12" target="kuywleyg-yXCFQcFQ9ox-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kuywleyg-yXCFQcFQ9ox-12" value="Backdrop in&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Message pop-up when GreenFlag Clicked.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="10" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="kuywleyg-yXCFQcFQ9ox-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kuywleyg-yXCFQcFQ9ox-14" target="kuywleyg-yXCFQcFQ9ox-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kuywleyg-yXCFQcFQ9ox-14" value="Message informs player how the game will work, what they need to do to complete each level." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="490" y="10" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="kuywleyg-yXCFQcFQ9ox-16" value="&#39;Player clicks different sprites, when correct sprite clicked, the game will start.&#39;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="720" y="10" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="kuywleyg-yXCFQcFQ9ox-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kuywleyg-yXCFQcFQ9ox-4" target="kuywleyg-yXCFQcFQ9ox-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="248" y="230" as="sourcePoint" />
+            <mxPoint x="123" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kuywleyg-yXCFQcFQ9ox-18" value="&lt;b&gt;MVP&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;Game Complete&lt;/b&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="190" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kuywleyg-yXCFQcFQ9ox-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kuywleyg-yXCFQcFQ9ox-20" target="kuywleyg-yXCFQcFQ9ox-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kuywleyg-yXCFQcFQ9ox-20" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;when correct sprite clicked, magic-tingly noise indicates correct.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="490" y="331.25" width="182" height="107.5" as="geometry" />
+        </mxCell>
+        <mxCell id="kuywleyg-yXCFQcFQ9ox-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kuywleyg-yXCFQcFQ9ox-22" target="kuywleyg-yXCFQcFQ9ox-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kuywleyg-yXCFQcFQ9ox-22" value="&lt;b&gt;MVP&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;2nd Round Complete&lt;/b&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="742" y="345" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kuywleyg-yXCFQcFQ9ox-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kuywleyg-yXCFQcFQ9ox-24" target="kuywleyg-yXCFQcFQ9ox-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kuywleyg-yXCFQcFQ9ox-24" value="&lt;div&gt;&lt;b&gt;3rd Round&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Backdrop change to room 3&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(edit backdrop to include numbers)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="712" y="490" width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="kuywleyg-yXCFQcFQ9ox-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kuywleyg-yXCFQcFQ9ox-26" target="kuywleyg-yXCFQcFQ9ox-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kuywleyg-yXCFQcFQ9ox-26" value="&lt;div&gt;Hide sprites from previous round&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;introduce new sprites for this round&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="502.5" width="140" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="kuywleyg-yXCFQcFQ9ox-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kuywleyg-yXCFQcFQ9ox-28" target="kuywleyg-yXCFQcFQ9ox-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kuywleyg-yXCFQcFQ9ox-28" value="Interactive Sprite - asking for 4-digit code to reveal key" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="512.5" width="160" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="kuywleyg-yXCFQcFQ9ox-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kuywleyg-yXCFQcFQ9ox-30" target="kuywleyg-yXCFQcFQ9ox-32" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kuywleyg-yXCFQcFQ9ox-30" value="Final Key revealed&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Click to end game&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="502.5" width="150" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="kuywleyg-yXCFQcFQ9ox-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kuywleyg-yXCFQcFQ9ox-32" target="kuywleyg-yXCFQcFQ9ox-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kuywleyg-yXCFQcFQ9ox-32" value="Change Backdrop final time&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;outside of house&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;CONGRATULATIONS message pop-up&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="27.5" y="660" width="175" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="kuywleyg-yXCFQcFQ9ox-34" value="&lt;b&gt;MVP&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;Game Finished&lt;/b&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="670" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
